@@ -1,0 +1,15 @@
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\bin\Debug\net6.0\MensagemCriptografada.exe
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\bin\Debug\net6.0\MensagemCriptografada.deps.json
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\bin\Debug\net6.0\MensagemCriptografada.runtimeconfig.json
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\bin\Debug\net6.0\MensagemCriptografada.dll
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\bin\Debug\net6.0\MensagemCriptografada.pdb
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\MensagemCriptografada.csproj.AssemblyReference.cache
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\MensagemCriptografada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\MensagemCriptografada.AssemblyInfoInputs.cache
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\MensagemCriptografada.AssemblyInfo.cs
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\MensagemCriptografada.csproj.CoreCompileInputs.cache
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\MensagemCriptografada.dll
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\refint\MensagemCriptografada.dll
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\MensagemCriptografada.pdb
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\MensagemCriptografada.genruntimeconfig.cache
+C:\Users\buh_k\DIO\WomanDeveloper\MensagemCriptografada\obj\Debug\net6.0\ref\MensagemCriptografada.dll
